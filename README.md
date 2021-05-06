@@ -1,21 +1,25 @@
-# songyao-template
+# hello
 
-## 安装依赖
+## Project setup
 ```
 npm install
 ```
 
-### 启动项目
+### Compiles and hot-reloads for development
 ```
-npm run serve
+npm start
 ```
 
-### 打包项目
+### Compiles and minifies for production
 ```
 npm run build
 ```
 
-
+### Lints and fixes files
+```
+npm run lint
+```
 
 ### 教程
-See [逐梦博客](http://47.100.126.169/zmengBlog).
+
+See  [逐梦博客](https://www.cnblogs.com/songyao666/p/11847754.html).
