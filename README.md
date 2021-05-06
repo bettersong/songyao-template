@@ -1,4 +1,4 @@
-# hello
+# songyao-vue-template
 
 ## Project setup
 ```
